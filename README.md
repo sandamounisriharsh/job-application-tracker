@@ -4,6 +4,9 @@ A full-stack web app to log and track job applications through their pipeline
 (Applied → Interview → Offer / Rejected), with a live dashboard summarizing
 where things stand.
 
+<img width="1895" height="914" alt="image" src="https://github.com/user-attachments/assets/a43b3b09-d798-4852-9582-cb092801bfda" />
+
+
 **Stack:** FastAPI + SQLAlchemy + SQLite (backend) · React + Vite + Recharts (frontend)
 
 ## Features
